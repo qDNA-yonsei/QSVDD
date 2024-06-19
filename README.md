@@ -8,4 +8,4 @@ This repository includes code for QSVDD, Quantum Autoencoder (QAE) and Deep Supp
 
 MNIST, Fashion MNIST, and credit card transaction datasets are supported.
 
-It includes noiseless and noisy simulation that take into account of noise information observed from IBM_torino.
+It includes noiseless and noisy simulation that take into account of noise information observed from IBM_torino (133-qubit device).
